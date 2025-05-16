@@ -1,4 +1,35 @@
-.rezes {
-    background-color: blueviolet;
-    color:floralwhite
+
+  *{/*Novo*/
+    margin; 0;/*novo*/
+    padding;0;/*novo*/
+} /*novo*/
+    
+.cabecalho{
+    background-color: rgb(230, 220, 25);
+    color:aqua;
+    display:flex;
+    justify-content: space-around;
+    padding: 240px 0;
+    font-size: 50px;
 }
+
+.cabecalhoLiataItem{
+     display: inline-block;
+     margin: 0 120px;
+     padding: 78px 0;
+}
+
+ <section class="sobre">
+ <h2 class="sobreTitulo"></h2>
+ <p class="sobreTextoUm"></p>
+ <p class="sobreTextoDois"></p>
+ </section>
+
+
+
+
+
+
+
+
+

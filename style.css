@@ -1,8 +1,8 @@
 
-  *{/*Novo*/
-    margin; 0;/*novo*/
-    padding;0;/*novo*/
-} /*novo*/
+*{
+    margin: 0;
+    padding: 0;
+}
     
 .cabecalho{
     background-color: rgb(230, 220, 25);
@@ -13,20 +13,32 @@
     font-size: 50px;
 }
 
-.cabecalhoLiataItem{
+.cabecalhoLiataItem{ 
      display: inline-block;
      margin: 0 120px;
      padding: 78px 0;
 }
 
- <section class="sobre">
- <h2 class="sobreTitulo"></h2>
- <p class="sobreTextoUm"></p>
- <p class="sobreTextoDois"></p>
- </section>
+.sobreImagem{
+           width:
+}
 
+.sobre{
+        background-image: linear gradient(#FFFFFF. #FFFFFF);
+        color: orange;
+        display: flex;
+        justify-content: center;
+       align-items: center;
+       padding: 370px 0;
+}
 
+.sobreConteudo{
+        width:
+}
 
+.sobreTitulo{
+         padding: 100px 50px;
+}
 
 
 

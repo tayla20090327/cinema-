@@ -20,27 +20,27 @@
 }
 
 .sobreImagem{
-           width:
+           width:50px;
+
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
-        display: flex;
-        justify-content: center;
-       align-items: center;
-       padding: 370px 0;
+        background-image: linear-gradient(#36d7cc, #FFFFFF);
+        color:rgb(241, 134, 203) ;
+        display:flex ;
+        justify-content:center;
+        align-items:center;
+        padding:370px 0; 
 }
 
 .sobreConteudo{
-        width:
+       width: 2px;
+
 }
 
 .sobreTitulo{
          padding: 100px 50px;
 }
-
-
 
 
 
